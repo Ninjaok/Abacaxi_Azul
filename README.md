@@ -2,7 +2,7 @@
 
 ## Aplicativo Mobile ( Abacaxi )
 
-## Features
+### Features
 
 - Login
 - Scanner de Cod Barras
